@@ -8,3 +8,5 @@ tbc
 
 `npm install`
 `node rgb.js`
+
+![interface](https://i.imgur.com/wmDIqSO.png)
